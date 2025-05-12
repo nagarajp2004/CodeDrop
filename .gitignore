@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Django settings
+*.log
+*.sqlite3
+db.sqlite3
+
+# Environment variables file
+.env
+
+# VS Code settings (if applicable)
+.vscode/
+
+# IDE-specific files (e.g., PyCharm, JetBrains)
+.idea/
+
+# Distribution / packaging
+*.egg
+*.egg-info
+dist/
+build/
+*.tar.gz
