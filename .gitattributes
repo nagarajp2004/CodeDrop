@@ -1,0 +1,8 @@
+# JavaScript
+*.js linguist-language=JavaScript
+
+# React (JSX and TSX are commonly used for React)
+*.jsx linguist-language=JavaScript
+*.tsx linguist-language=TypeScript
+
+*.py linguist-language=Python
