@@ -1,3 +1,10 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Sep 8, 2025, 12_13_20 PM" src="https://github.com/user-attachments/assets/8e6cab6e-0213-4d1a-aca8-f25c032cd4d2" />
+
+
+
+
+
 CodeDrop is a Django-based RESTful web application that enables users to store, track, and receive useful code snippets automatically via email. The system is designed to improve developer productivity by sending curated code examples regularly or after snippet creation.
 
 💡 Key Features:
